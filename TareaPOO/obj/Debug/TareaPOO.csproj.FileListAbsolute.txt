@@ -1,0 +1,8 @@
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\bin\Debug\TareaPOO.exe.config
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\bin\Debug\TareaPOO.exe
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\bin\Debug\TareaPOO.pdb
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\obj\Debug\TareaPOO.csproj.AssemblyReference.cache
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\obj\Debug\TareaPOO.csproj.SuggestedBindingRedirects.cache
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\obj\Debug\TareaPOO.csproj.CoreCompileInputs.cache
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\obj\Debug\TareaPOO.exe
+D:\UMG\3er semestre\Programacion 1\TareaPOO\TareaPOO\obj\Debug\TareaPOO.pdb
